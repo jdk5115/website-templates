@@ -408,7 +408,7 @@ p {
 .top_left_cont h2 strong {
     font-weight: 700;
 	
-    color: #FFE800;
+    color: #306086;
 }
 
 .top_left_cont p {
@@ -828,8 +828,8 @@ background-position-y: 70px;
 }
 
 #about-us .read-more:hover{
-	background-color: #e74c3c;
-	border: 1px solid #e74c3c;
+	background-color: #3d9c3de5;
+	border: 1px solid #3d9c3de5;
 	color: #fff;
 }
 .about-us-post-container{
@@ -1064,7 +1064,7 @@ border: 1px solid #3d9c3de5;
 }
 
 .contact_block_icon span {
-    background: none repeat scroll 0 0 #f56eab;
+    background: none repeat scroll 0 0 #3d9c3de5;
     border: 5px solid #fff;
     border-radius: 50%;
     display: block;
